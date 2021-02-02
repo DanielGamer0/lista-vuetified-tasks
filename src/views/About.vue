@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>CRUD básico de lista de tareas y otras demostraciones simples realizadas en Vuetify </p>
+    <p>✍️ por ダニエルゲーマー0 👨‍💻</p>
   </div>
 </template>
